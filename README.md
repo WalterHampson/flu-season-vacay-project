@@ -3,7 +3,6 @@ My copy of the project done with Christian B and Jay M. Original GitHub found he
 https://github.com/ChristianBlomgren/flu-season-vacay-project
 
 
-
 **Project Overview: Understanding the Impact of Influenza**
 
 The project delves into influenza data categorized by strain, hospitalizations, and mortality rates.
@@ -34,6 +33,10 @@ Also all visualizations are interactable within the jupityr notebook as well
 In our personal assessment of flu data, ethical considerations remain a top priority.
 We're delving into which flu strains are prevalent, who's most affected in terms of age, race, and gender, and what the mortality rates indicate.
 By reviewing this data we can get a more indepth view of who is being affected and assess when spikes of viruses are occuring.
+
+This data was used simply for programming purposes only.
+The data is from the CDC and very simplified.
+For any and all needs for data may be referred back to the CDC site.
 
 
 
@@ -95,6 +98,13 @@ https://www.cdc.gov/flu/
 **Group Presentation (25 points)**
   
 - All group members speak during the presentation. (5 points)
+  
+- The content is relevant to the project. (5 points)
+  
+- The presentation maintains audience interest. (5 points)
+  
+- Content, transitions, and conclusions flow smoothly within any time restrictions. (10 points)
+
   
 - The content is relevant to the project. (5 points)
   
